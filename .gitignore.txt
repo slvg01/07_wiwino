@@ -1,3 +1,0 @@
-# Ignore viirtual environment setting 
-
-venv/
