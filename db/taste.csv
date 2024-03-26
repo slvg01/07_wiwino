@@ -1,0 +1,143 @@
+name,id,keyword_id,wine_id,id,group_name,keyword_type,name,flavor_count
+citrus,106,106,7219675,7219675,citrus_fruit,primary,Cristal Vinothèque,5
+toast,417,417,7122486,7122486,non_oak,primary,Grande Cuvée,5
+coffee,117,117,5994988,5994988,oak,primary,Puligny-Montrachet 1er Cru 'Les Champs Gains',5
+coffee,117,117,5725324,5725324,oak,primary,TD9,5
+coffee,117,117,5313010,5313010,oak,primary,Le Petit Cheval Bordeaux Blanc,5
+citrus,106,106,4402538,4402538,citrus_fruit,primary,Pessac-Léognan Blanc (Grand Cru Classé de Graves),5
+toast,417,417,3630450,3630450,non_oak,primary,Cuvée des Enchanteleurs Brut Champagne,5
+toast,417,417,3102815,3102815,non_oak,primary,P2 Plénitude Brut Champagne,5
+coffee,117,117,2951484,2951484,oak,primary,Amour de Deutz Millesimé Rosé Brut Champagne,5
+coffee,117,117,2738226,2738226,oak,primary,Brunello di Montalcino,5
+green apple,195,195,2486585,2486585,tree_fruit,primary,VT Vendemmia Tardiva,5
+coffee,117,117,2446729,2446729,oak,primary,Toscana,5
+green apple,195,195,2284844,2284844,tree_fruit,primary,Aile d'Argent Blanc Bordeaux,5
+green apple,195,195,2240674,2240674,tree_fruit,primary,Brut Champagne (Gold),5
+green apple,195,195,2148396,2148396,tree_fruit,primary,V.P Extra Brut Champagne Grand Cru 'Ambonnay',5
+toast,417,417,2114480,2114480,non_oak,primary,Brut Rosé Champagne,5
+green apple,195,195,2025939,2025939,tree_fruit,primary,Champagne,5
+green apple,195,195,1958101,1958101,tree_fruit,primary,Vin de Constance (Natural Sweet),5
+citrus,106,106,1950121,1950121,citrus_fruit,primary,Ribolla Gialla,5
+green apple,195,195,1913596,1913596,tree_fruit,primary,Tokaji Aszú 5 Puttonyos,5
+coffee,117,117,1882725,1882725,oak,primary,Evenstad Reserve Pinot Noir,5
+green apple,195,195,1789271,1789271,tree_fruit,primary,5 Puttonyos Aszú (Blue Label),5
+coffee,117,117,1779833,1779833,oak,primary,Corton-Charlemagne Grand Cru,5
+green apple,195,195,1776233,1776233,tree_fruit,primary,Blanc,5
+coffee,117,117,1716277,1716277,oak,primary,Cuvée Risleus Brut Champagne Premier Cru,5
+toast,417,417,1692390,1692390,non_oak,primary,Sir Winston Churchill Brut Champagne,5
+coffee,117,117,1684223,1684223,oak,primary,Pauillac (Premier Grand Cru Classé),5
+toast,417,417,1636506,1636506,non_oak,primary,Reserva Particular de Recaredo Gran Reserva Brut Nature,5
+coffee,117,117,1605285,1605285,oak,primary,Pessac-Léognan (Grand Cru Classé de Graves),5
+coffee,117,117,1598758,1598758,oak,primary,Bâtard-Montrachet Grand Cru,5
+toast,417,417,1476982,1476982,non_oak,primary,Cava Celler Batlle,5
+toast,417,417,1441099,1441099,non_oak,primary,Blanc des Millénaires,5
+toast,417,417,1384933,1384933,non_oak,primary,La Grande Dame Brut Rosé Champagne,5
+coffee,117,117,1324170,1324170,oak,primary,Dalmau Rioja,5
+toast,417,417,1301256,1301256,non_oak,primary,Amour de Deutz Millésimé Brut Champagne,5
+coffee,117,117,1298725,1298725,oak,primary,Pieve Santa Restituta Sugarille Brunello di Montalcino,5
+coffee,117,117,1294734,1294734,oak,primary,Rapture Cabernet Sauvignon,5
+coffee,117,117,1269657,1269657,oak,primary,Bolgheri Superiore Sondraia,5
+coffee,117,117,1256452,1256452,oak,primary,'Giulio Ferrari' Riserva del Fondatore,5
+toast,417,417,1238419,1238419,non_oak,primary,Grand Siècle Champagne (Grande Cuvée),5
+coffee,117,117,1235876,1235876,oak,primary,Vieilles Vignes Châteauneuf-du-Pape Blanc,5
+toast,417,417,1218424,1218424,non_oak,primary,N.P.U. Extra Brut Champagne (Nec Plus Ultra),5
+citrus,106,106,1211816,1211816,citrus_fruit,primary,Brut Rosé Champagne,5
+coffee,117,117,1203557,1203557,oak,primary,Barolo Riserva,5
+toast,417,417,1192720,1192720,non_oak,primary,Dom Ruinart Blanc de Blancs Brut Champagne,5
+coffee,117,117,1187200,1187200,oak,primary,Musigny Grand Cru (Cuveé Vieilles Vignes),5
+green apple,195,195,1182677,1182677,tree_fruit,primary,Clos Sainte Hune Riesling Alsace,5
+coffee,117,117,1179539,1179539,oak,primary,Saint-Émilion Grand Cru (Premier Grand Cru Classé),5
+green apple,195,195,1176121,1176121,tree_fruit,primary,Ben Ryé Passito di Pantelleria,5
+coffee,117,117,1175427,1175427,oak,primary,Valbuena 5º,5
+green apple,195,195,1174845,1174845,tree_fruit,primary,Sauternes (Premier Grand Cru Classé),5
+coffee,117,117,1173806,1173806,oak,primary,Capellanía Reserva,5
+coffee,117,117,1167182,1167182,oak,primary,MV,5
+toast,417,417,1164702,1164702,non_oak,primary,R.D Extra Brut Champagne (Récemment Dégorgé),5
+coffee,117,117,1160530,1160530,oak,primary,Vürsù Barolo Campè,5
+green apple,195,195,1153863,1153863,tree_fruit,primary,Sauternes,5
+coffee,117,117,1152755,1152755,oak,primary,Pessac-Léognan (Premier Grand Cru Classé),5
+coffee,117,117,1151275,1151275,oak,primary,Yarden Katzrin,5
+coffee,117,117,1150380,1150380,oak,primary,Brunello di Montalcino,5
+coffee,117,117,1148846,1148846,oak,primary,Pessac-Léognan Blanc (Grand Cru Classé de Graves),5
+coffee,117,117,1148839,1148839,oak,primary,La Chapelle de La Mission Haut-Brion Pessac-Léognan,5
+cream,123,123,1148298,1148298,microbio,primary,Brut Rosé Champagne,5
+coffee,117,117,1138019,1138019,oak,primary,Georges De Latour Private Reserve Cabernet Sauvignon,5
+toast,417,417,1136950,1136950,non_oak,primary,Comtes de Champagne Blanc de Blancs,5
+coffee,117,117,1135642,1135642,oak,primary,One Point Five Cabernet Sauvignon,5
+coffee,117,117,1135641,1135641,oak,primary,Alexander Valley Cabernet Sauvignon,5
+green apple,195,195,1135215,1135215,tree_fruit,primary,Sauternes (Premier Grand Cru Classé),5
+coffee,117,117,1134803,1134803,oak,primary,Châteauneuf-du-Pape,5
+coffee,117,117,1127795,1127795,oak,primary,Château Margaux (Premier Grand Cru Classé),5
+citrus,106,106,1127349,1127349,citrus_fruit,primary,Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,5
+coffee,117,117,1125543,1125543,oak,primary,Pauillac (Grand Cru Classé),5
+coffee,117,117,1115658,1115658,oak,primary,Saint-Julien (Grand Cru Classé),5
+coffee,117,117,1109743,1109743,oak,primary,Serral del Vell Brut Nature,5
+coffee,117,117,1108737,1108737,oak,primary,Pomerol,5
+coffee,117,117,1105696,1105696,oak,primary,Trebbiano d'Abruzzo,5
+green apple,195,195,100492,100492,tree_fruit,primary,Clos de la Coulée de Serrant,5
+coffee,117,117,99572,99572,oak,primary,Rioja Reserva,5
+coffee,117,117,89753,89753,oak,primary,Valpolicella Superiore Monte Lodoletta,5
+coffee,117,117,88470,88470,oak,primary,Barbaresco Rabajà,5
+citrus,106,106,86698,86698,citrus_fruit,primary,Buisson Renard,5
+toast,417,417,86684,86684,non_oak,primary,Brut Champagne,5
+coffee,117,117,84911,84911,oak,primary,Chevalier-Montrachet Grand Cru,5
+toast,417,417,83818,83818,non_oak,primary,Clos des Goisses Champagne,5
+coffee,117,117,83594,83594,oak,primary,Luce,5
+coffee,117,117,82779,82779,oak,primary,Corton-Charlemagne Grand Cru,5
+coffee,117,117,82613,82613,oak,primary,Pessac-Léognan (Grand Cru Classé de Graves),5
+coffee,117,117,80472,80472,oak,primary,Saint-Estèphe (Grand Cru Classé),5
+toast,417,417,79836,79836,non_oak,primary,La Grande Dame Brut Champagne,5
+toast,417,417,79835,79835,non_oak,primary,Cuvée Nicolas François Billecart Brut Champagne,5
+toast,417,417,79635,79635,non_oak,primary,Clos du Mesnil,5
+toast,417,417,79633,79633,non_oak,primary,Collection,5
+toast,417,417,79632,79632,non_oak,primary,Rosé,5
+toast,417,417,79631,79631,non_oak,primary,Vintage,5
+coffee,117,117,79265,79265,oak,primary,Saint-Julien (Grand Cru Classé),5
+coffee,117,117,79262,79262,oak,primary,Pauillac (Grand Cru Classé),5
+green apple,195,195,79162,79162,tree_fruit,primary,Belle Epoque Brut Champagne,5
+citrus,106,106,77676,77676,citrus_fruit,primary,Quarz Sauvignon,5
+green apple,195,195,77182,77182,tree_fruit,primary,Tokaji Aszú 3 Puttonyos,5
+green apple,195,195,77175,77175,tree_fruit,primary,Tokaji Aszú 6 Puttonyos,5
+coffee,117,117,77171,77171,oak,primary,Ribera del Duero,5
+coffee,117,117,77137,77137,oak,primary,Unico,5
+coffee,117,117,74346,74346,oak,primary,Cos d'Estournel,5
+toast,417,417,74306,74306,non_oak,primary,Cristal Rosé Brut Champagne (Millésimé),5
+toast,417,417,74304,74304,non_oak,primary,Cristal Brut Champagne (Millésimé),5
+green apple,195,195,74300,74300,tree_fruit,primary,Blanc de Blancs Brut Champagne (Vintage),5
+coffee,117,117,66284,66284,oak,primary,Cabernet Sauvignon,5
+coffee,117,117,41524,41524,oak,primary,Corton-Charlemagne Grand Cru,5
+coffee,117,117,25474,25474,oak,primary,Aconcagua Valley,5
+coffee,117,117,24139,24139,oak,primary,Puligny-Montrachet,5
+coffee,117,117,24063,24063,oak,primary,Beaune 1er Cru 'Clos des Mouches' Blanc,5
+coffee,117,117,23793,23793,oak,primary,Carruades de Lafite Pauillac,5
+coffee,117,117,23240,23240,oak,primary,Brunello di Montalcino,5
+toast,417,417,23130,23130,non_oak,primary,Cuvée Annamaria Clementi (Extra Brut),5
+coffee,117,117,22685,22685,oak,primary,Saint-Julien (Grand Cru Classé),5
+coffee,117,117,22447,22447,oak,primary,Bolgheri Superiore,5
+toast,417,417,18931,18931,non_oak,primary,La Grande Année Brut Champagne,5
+coffee,117,117,18017,18017,oak,primary,Châteauneuf-du-Pape,5
+coffee,117,117,17656,17656,oak,primary,Pessac-Léognan (Grand Cru Classé de Graves),5
+green apple,195,195,16786,16786,tree_fruit,primary,Barsac (Premier Grand Cru Classé),5
+coffee,117,117,16778,16778,oak,primary,Saint-Émilion Grand Cru (Premier Grand Cru Classé),5
+coffee,117,117,16587,16587,oak,primary,Insignia,5
+coffee,117,117,16578,16578,oak,primary,Cabernet Sauvignon,5
+toast,417,417,15617,15617,non_oak,primary,Blanc de Blancs Brut Champagne Grand Cru,5
+coffee,117,117,14362,14362,oak,primary,Pauillac (Grand Cru Classé),5
+coffee,117,117,13759,13759,oak,primary,Clos Apalta,5
+coffee,117,117,12393,12393,oak,primary,Amarone della Valpolicella Classico,5
+coffee,117,117,11038,11038,oak,primary,Puligny-Montrachet Enseignères,5
+coffee,117,117,11001,11001,oak,primary,Castillo Ygay Gran Reserva Especial Tinto,5
+coffee,117,117,10922,10922,oak,primary,Hermitage La Chapelle Rouge,5
+coffee,117,117,10175,10175,oak,primary,Saint-Émilion Grand Cru (Premier Grand Cru Classé),5
+coffee,117,117,9958,9958,oak,primary,Dominus (Christian Moueix),5
+coffee,117,117,9220,9220,oak,primary,Grand Vin de Château Palmer (Grand Cru Classé),5
+cream,123,123,8305,8305,microbio,primary,Brut Cuvée Champagne Rosé,5
+coffee,117,117,7103,7103,oak,primary,Amarone della Valpolicella Classico,5
+coffee,117,117,6020,6020,oak,primary,Pavillon Rouge du Château Margaux,5
+coffee,117,117,5261,5261,oak,primary,Chateau Buena Vista Cabernet Sauvignon Napa Valley,5
+coffee,117,117,5078,5078,oak,primary,Sassicaia,5
+coffee,117,117,3908,3908,oak,primary,Pauillac (Premier Grand Cru Classé),5
+coffee,117,117,3715,3715,oak,primary,Monte Bello,5
+coffee,117,117,1688,1688,oak,primary,Castello della Sala Cervaro della Sala,5
+coffee,117,117,1658,1658,oak,primary,Tenuta Guado al Tasso Bolgheri Superiore,5
+coffee,117,117,1652,1652,oak,primary,Tignanello,5
