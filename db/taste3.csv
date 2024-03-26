@@ -1,4 +1,4 @@
-id,name,id,name,keyword_id,count
+wine_id,wine_name,id,name,keyword_id,count
 18931,La Grande Année Brut Champagne,417,toast,417,525
 18931,La Grande Année Brut Champagne,117,coffee,117,32
 18931,La Grande Année Brut Champagne,123,cream,123,425
