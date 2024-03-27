@@ -1,8 +1,8 @@
--- 7 - Top 5  recommendations in cabernet sauvignon fro a VIP client. Crietria chosen are : 
+-- 7 - Top 5  recommendations in cabernet sauvignon for a VIP client. Crietria chosen are : 
         -- price (exclusivity)
         -- rating (quality)
         -- rating_count (popularity)
-        --  region variety (diversity)
+        -- region variety (diversity)
  -- the 5 wines chosen with the top 20 price according to that are : 
         -- 1. Dominio de Pingus 2004  (Spain, Ribera del Duero)
         -- 2. Harlan Estate Harlan Estate Red 1998 (USA, Napa Valley)
