@@ -1,6 +1,17 @@
--- 6 - create a country leader board reflecting the which countries have best rating 
--- putting in other country metrics like number of users, number of ratings,  rating/users , number of wineries  to display more visualization
- 
+-- QUERY 6 OBJECTIVES: create a country leader board reflecting the which countries have best wine rating 
+-- 
+-- QUERY LOGIC 
+--      - joining wines, region and countries together 
+--      - then group by countries and sort by rating average
+--      - add vizualisation 
+--
+-- MAIN CONCLUSIONS : 
+--      - the 3 countries with the best average ratings are Germany, Israel and USA.
+ --     - note that the number of wines and thus rating in Germany and Israel are not high :
+--      - less wine higher with quality potentially, no dilution effect
+--
+
+
 
 SELECT  countries.name AS Country,
         countries.users_count AS users_nb,
@@ -20,4 +31,4 @@ FROM    countries
 GROUP BY countries.name
 ORDER BY AVG(wines.ratings_average) DESC, AVG(wines.ratings_count) DESC
 
--- VISUALIZATION
+-- VISUALIZATION image is opening in a new window.

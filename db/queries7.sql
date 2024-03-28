@@ -1,14 +1,22 @@
--- 7 - Top 5  recommendations in cabernet sauvignon for a VIP client. Crietria chosen are : 
-        -- price (exclusivity)
-        -- rating (quality)
-        -- rating_count (popularity)
-        -- region variety (diversity)
- -- the 5 wines chosen with the top 20 price according to that are : 
-        -- 1. Dominio de Pingus 2004  (Spain, Ribera del Duero)
-        -- 2. Harlan Estate Harlan Estate Red 1998 (USA, Napa Valley)
-        -- 3. Opus One 2015 (USA, Napa Valley)
-        -- 4. Scarecrow Cabernet Sauvignon 2015 (USA, Rutherford)
-        -- 5. Penfolds Grange 2016 ()
+-- QUERY 7 OBJECTIVES: Top 5  recommendations in cabernet sauvignon for a VIP client. 
+-- 
+-- QUERY LOGIC 
+--      - getting a top 20 wine list containing Cabernet (similar query than query5 query) but sorted by price (VIP client - Exclusivity )
+--      - other criteria of selection then are 
+--      - rating (quality)
+--      - rating_count (popularity)
+--      - various region (diversity)
+--
+-- MAIN CONCLUSIONS : 
+--      - The wine have been handpicked within the table list to ensure those criteria are met (VIP treatment) 
+--      - Note that same limitation apply as for query5 (reliability of grapes presence in wine because of database limiation)
+-- the 5 wines chosen with the top 20 price according to that are : 
+--      1. Domino de Pingus 2015 (Spain, Ribera del Duero)
+--      2. Harlan Estate Harlan Estate Red 1998 (USA, Napa Valley)
+--      3. Opus One 2015 (USA, Napa Valley)
+--      4. Scarecrow Cabernet Sauvignon 2015 (USA, Rutherford)
+--      5. Penfolds Grange 2016 (South AUstralie)
+
 
 
 

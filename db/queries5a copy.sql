@@ -57,6 +57,7 @@ ranked_wines AS (
                 JOIN vintages ON wines.id = vintages.wine_id
                 JOIN wines ON regions.id = wines.region_id
                 JOIN countries  ON regions.country_code = countries.code
+                --JOIN countries_most_common_grapes ON regions.country_code = countries_most_common_grapes.country_code
                 JOIN countries_most_common_grapes ON countries.code = countries_most_common_grapes.country_code
                 JOIN grapes ON countries_most_common_grapes.grape_id = grapes.id
                 

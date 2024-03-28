@@ -1,13 +1,19 @@
--- 4b - Secondary query for question 4 - verify 4a out put : all 19 wines do have the 5 flavors with sufficient counts (10)
-
+-- QUERY 4b OBJECTIVES: verify 4a out put : all 19 wines do have the 5 flavors with sufficient counts (10)
+-- 
+-- QUERY LOGIC
+--      - linking the relevant tables (keywords, keywords_wine and wines)
+--      - extracting wines by number of flavors >=5 with a sorting on the searched flavors first 
+--
+-- MAIN CONCLUSIONS : 
+--   - Query 4a validated as all 19 wines do have the 5 flavors (see table above : 19*5 = 95 lines) there are only 19 wines that have all 5 flavors and that are rated by 10 users at least
+--   - they are all champaign type of wine. Name proposed for the group : "Sweet !POP!"
 
         
 WITH taste_in_wine AS (
 SELECT 
-    --keywords.name,
+    
     wines.id AS wine_id,
     wines.name AS wine_name,
-    --keywords_wine.keyword_type AS keyword_type,
     keywords_wine.count AS keyword_count,
     COUNT(DISTINCT keywords.name) as flavor_count   
                  

@@ -1,16 +1,20 @@
--- 4a - identify a group of wines with all aromas (coffee, toast, green apple, cream, and citrus) identified by 10 users at least 
---      & Propose a name for that group of wine :
---           - 19 wines belongs to that group all in , all champaign type of wine. 
---           - Group name proposed : "Pshhht"   
--- The second/next query (4b) verifies that all those 19 wines do have the 5 flavors (95 lines) with more than 10 counts each
+-- QUERY 4a OBJECTIVES: 
+--     - identify a group of wines with all flavors (coffee, toast, green apple, cream, and citrus) & rated by 10 users at least 
+--     - Propose a name for that group of wine :
+-- 
+-- QUERY LOGIC :
+--    - linking the relevant tables (keywords, keywords_wine and wines)
+--    - allowing then to filter on the 5 flavors and ratings counts >= 10
+ --
+-- MAIN CONCLUSIONS : 
+--   - there are only 19 wines that have all 5 flavors and that are rated by 10 users at least
+--   - they are all champaign type of wine. Name proposed for the group : "Sweet !POP!"
 
 
-        
 SELECT 
-    --keywords.name,
+    
     wines.id AS wine_id,
     wines.name AS wine_name,
-    --keywords_wine.keyword_type AS keyword_type,
     keywords_wine.count AS keyword_count,
     COUNT(DISTINCT keywords.name) as flavor_count   
                  

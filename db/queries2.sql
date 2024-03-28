@@ -1,10 +1,17 @@
--- 2 - Propose priority countries for marketing push: The 2 mains selection criteria we recommend are:
---      - number of users : because bigger market tends to allow for better absolute ROI on the long term
---      - The average rating per user as it shows the interest and knowledge from the users for the field 
--- Based on that, the first 4 proposed countries are US, FRANCE, ITALY , SPAI?
---      - note that it would have been great to get saturation data here to really make a choice safely
--- To mitigate that blind side risk, we included as well GERMANY & SWITZERLAND as they have a development potential (big market/low usage)  
-        
+-- QUERY 2 OBJECTIVES: Propose priority countries for marketing push
+-- 
+-- QUERY LOGIC :
+-- The selection is based on the following criteria: 
+--   - number of users : because bigger market tends to allow for better absolute ROI on the long term (mar)
+--   - the average rating per user as it shows the interest and knowledge from the users for the field (usaage/engagement)
+-- Based on that, the first 4 proposed countries are US, FRANCE, ITALY
+--   - note that it would have been great to get saturation data here to really make a choice safely
+--   - to mitigate that blind side risk, we included as well GERMANY & SWITZERLAND as they have a development potential (big market/low usage) 
+--
+-- MAIN CONCLUSIONS : 
+-- US, FRANCE, ITALY, GERMANY and SWITERLAND as priority countries. 
+
+
 SELECT  
         countries.name AS country, 
         countries.users_count AS number_of_users,

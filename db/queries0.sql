@@ -1,4 +1,17 @@
---  O - Just a small Market facts analysis that you gonna get through jupyter notebook
+-- QUERY 0 OBJECTIVES: Just a small Market facts analysis that you gonna get through jupyter notebook :
+-- 
+-- QUERY LOGIC :
+-- The query was designed to present the following elements:. 
+-- a) number of wineries per country
+-- b) number of wines per country
+-- c) average wine ratings per country
+-- d) number of users per country
+--
+-- MAIN CONCLUSIONS : 
+-- -  France, US and italy are dominant in terms of offer
+-- -  Wine from Germany and Israel are top rated (but much less offer in the list > higher avg quality? )
+-- -  US and Germany have the biggest potential in terms of engagement (high user base and low ratings count/users) 
+--   
 
 SELECT  countries.name AS Country,
         countries.users_count AS users_nb,
@@ -18,4 +31,4 @@ FROM    countries
 GROUP BY countries.name
 ORDER BY AVG(wines.ratings_average) DESC, AVG(wines.ratings_count) DESC
 
--- VISUALIZATION
+-- VISUALIZATION image is opening in a new window.

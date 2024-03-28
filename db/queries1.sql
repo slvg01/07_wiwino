@@ -1,11 +1,16 @@
---  1 - Propose 10 wines selection to increase sales. The selection is based on the following criteria:
---      - theresholds on price (not too expensive), rating_avg (good quality) and rating_counts (high volume), 
---        chosen through separate distribution analysis of those parameters
---      - presence of the wine on a a toplist as it helps to sell
---      - intent was to select wines with a discount as well but those did not make it to the  list (two few of them/below thresholds)
-
-
-
+-- QUERY 1 OBJECTIVES: Propose 10 wines selection to increase sales.
+-- 
+-- QUERY LOGIC :
+-- The selection is based on the following criteria: 
+--      a) theresholds on price (<425 - acceptable price), rating_avg (>4.6 - high quality) and rating_counts (>200 - high volume), 
+--          We choose those through a distribution analysis of each parameter ensuring we were in within 70% of the total value (see all_queries.ipynb) 
+--      b) presence of the wine on a a toplist as it helps to sell
+--      c) we choose only 750 ml bottles as this this is the standard volume by far 
+--      d) intent was to select wines with a discount as well but none satsifies the other criterias (two few of them/below thresholds)
+--
+-- MAIN CONCLUSIONS : 
+-- The above query returns 10 wines exactly and they are the one we propose to push to increase sales (see table just above). 
+--   
 SELECT  DISTINCT
         vintages.id AS wine_id,
         vintages.name AS wine_name,
@@ -28,8 +33,4 @@ WHERE
         AND vintages.bottle_volume_ml = 750
            
 GROUP BY vintages.id
-
-
-
-
 

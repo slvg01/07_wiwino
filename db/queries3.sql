@@ -1,9 +1,13 @@
--- 3 - Propose 3 best wineries be awarded. selection criteria chosen are :
---        - main criteria : total number of ratings above 100k  (app usage as main factor)
---        - secondary criteria: average ratings for the winery above 4.6 (wine quality)
--- top 3 = Tenuta San Guido, Dom Perignon and Chateau d Yquem (i leave 10 in the output for the pleasure of the eyes :))
-
-
+-- QUERY 3 OBJECTIVES: Propose 3 best wineries be awarded
+-- 
+-- QUERY LOGIC :
+-- The selection is based on the following criteria: 
+--   - main criteria : total number of winery ratings above 100k  (winery quantitatie reputation)
+--   - secondary criteria: average ratings for the winery above 4.6 (winery offer quality)
+--
+-- MAIN CONCLUSIONS : 
+--   - Tenuta San Guido, Dom Perignon and Chateau d Yquem are the top 3 wineries to be awarded.
+--   - I leave 10 in the output for the pleasure of the eyes :)
 
         
 SELECT  
