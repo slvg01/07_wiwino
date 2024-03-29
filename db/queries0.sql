@@ -8,9 +8,9 @@
 -- d) number of users per country
 --
 -- MAIN CONCLUSIONS : 
--- -  France, US and italy are dominant in terms of offer
+-- -  France, US and italy are dominant in terms of offer (number of wines, number of wineies)
 -- -  Wine from Germany and Israel are top rated (but much less offer in the list > higher avg quality? )
--- -  US and Germany have the biggest potential in terms of engagement (high user base and low ratings count/users) 
+-- -  US and Germany have the biggest potential for the app in terms of untapped engagement (high user base and low ratings count/users) 
 --   
 
 SELECT  countries.name AS Country,

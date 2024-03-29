@@ -2,11 +2,11 @@
 -- 
 -- QUERY LOGIC :
 -- The selection is based on the following criteria: 
---      a) theresholds on price (<425 - acceptable price), rating_avg (>4.6 - high quality) and rating_counts (>200 - high volume), 
---          We choose those through a distribution analysis of each parameter ensuring we were in within 70% of the total value (see all_queries.ipynb) 
+--      a) theresholds on price (<425 EUR - acceptable price), rating_avg (>4.6 - high quality) and rating_counts (>200 - high volume), 
+--          We choose those through a distribution analysis of each parameter ensuring we were within 70% of the total value (see all_queries.ipynb) 
 --      b) presence of the wine on a a toplist as it helps to sell
 --      c) we choose only 750 ml bottles as this this is the standard volume by far 
---      d) intent was to select wines with a discount as well but none satsifies the other criterias (two few of them/below thresholds)
+--      d) intent was to select wines with a discount as well but none satsified the other criterias (two few of them/below thresholds)
 --
 -- MAIN CONCLUSIONS : 
 -- The above query returns 10 wines exactly and they are the one we propose to push to increase sales (see table just above). 

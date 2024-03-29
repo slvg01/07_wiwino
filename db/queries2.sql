@@ -4,12 +4,12 @@
 -- The selection is based on the following criteria: 
 --   - number of users : because bigger market tends to allow for better absolute ROI on the long term (mar)
 --   - the average rating per user as it shows the interest and knowledge from the users for the field (usaage/engagement)
--- Based on that, the first 4 proposed countries are US, FRANCE, ITALY
+-- Based on that, the first 3 logical countries are US, FRANCE, ITALY
 --   - note that it would have been great to get saturation data here to really make a choice safely
 --   - to mitigate that blind side risk, we included as well GERMANY & SWITZERLAND as they have a development potential (big market/low usage) 
 --
 -- MAIN CONCLUSIONS : 
--- US, FRANCE, ITALY, GERMANY and SWITERLAND as priority countries. 
+-- In light of the restricted budget we propose US, GERMANY and SWITERLAND as priority countries. 
 
 
 SELECT  
