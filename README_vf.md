@@ -38,7 +38,7 @@ When running the ``queries_exec.py file``, the script will initially:
 
 The queries codes are located in the `db/`folder for your review. 
 
-## Main Conclussion 
+## Main Conclusion 
 
 - Most common grapes in the world are Cabernet Sauvignon, Chardonnay and Pinot
 - Wine Market is dominated by France, Italy and US in terms of number of wineries and number of wines
